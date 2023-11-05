@@ -1,0 +1,187 @@
+.body {background-color: #141414;}
+
+.divmain {width: 100%; display: inline-block;padding: 30px 0px 30px 0px}
+.divright {width: 50%; float: right;}
+.divleft {width: 50%; float: left;}
+.divform{padding: 10px 0px}
+
+.heading {padding: 100px 80px 20px 100px;
+			margin: 0px;
+			font-family: 'Poppins';
+			font-style: normal;
+			font-weight: 600;
+			font-size: 76px;
+			line-height: 80px;
+			color: #FFFFFF;}
+.heading2 {margin:0px;
+		font-family : Poppins;
+		padding:40px 580px 40px 520px ;
+ 		font-size : 35px;
+  		color : #D84141;}
+
+.sub {padding: 20px 100px 20px 100px;
+			font-family : Poppins; 		
+ 			font-weight: 500;
+  			font-size : 26px;
+  			color : #D84141; 
+  			text-align: justify;}
+
+ .paragraph {margin:0px;
+ 			padding: 20px 100px 20px 100px;
+ 			font-family : Poppins;
+ 			font-weight: 400;
+  			font-size : 16px;
+  			text-align: justify;
+  			color : #FFFFFF;}
+
+.strong {padding: 20px 100px 20px 100px;
+		font-family : Poppins;
+ 		font-size : 16px;
+  		color : #D84141;}
+
+.image{padding:70px 120px 50px 100px;
+			width: 70%;}
+
+.image4{padding:0px 0px 0px 150px;
+			width: 70%; 
+			opacity: 100%;
+			}
+
+.em {font-family : Poppins;
+		padding:40px 200px 20px 250px ;
+ 		font-size : 35px;
+  		color : #D84141;}
+
+.ul {margin:0px;
+ 		padding: 20px 100px 20px 140px;
+ 		font-family : Poppins;
+ 		font-weight: 400;
+  		font-size : 16px;
+  		text-align: justify;
+  		color : #FFFFFF;}
+.list {padding: 20px 0px 20px 0px}
+.list:hover { color: #D84141;  }
+
+.legend{padding: 20px;
+		font-family : Poppins; 		
+ 		font-weight: 500;
+  		font-size : 26px;
+  		color : #D84141; 
+  		text-align: center;}
+
+.forma{padding: 0px 150px 50px 150px;}
+
+.label {display: block;
+			font-family : Poppins;
+ 			font-weight: 400;
+  			font-size : 16px;
+  			color:#D84141 }
+
+.input[type=text] {width: 100%;
+  padding: 12px 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border:none;
+  outline: none;
+	font-size: 12px;
+	font-family: poppins;
+	color:gray; }
+.input[type=text]:focus {
+ border: 3px solid #D84141;}
+
+.input[type=email] {width: 100%;
+  padding: 12px 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border:none;
+  outline: none;
+	font-size: 12px;
+	font-family: poppins;
+	color:gray; }
+.input[type=email]:focus {
+ border: 3px solid #D84141;}
+
+ .input[id=poruka] {width: 100%;
+  padding: 12px 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border:none;
+  outline: none;
+	font-size: 12px;
+	font-family: poppins;
+	color:gray; }
+.input[id=poruka]:focus {
+ border: 3px solid #D84141;}
+
+.button{margin: 5px 10px 5px 150px;
+		padding: 5px 25px 5px 25px;
+		color: white;
+		background-color: #D84141;
+		font-family: Poppins;
+		font-size: 14px;
+		text-align: center;
+		border: none;
+		border-radius: 5px;
+		transition-duration: 0.4s;
+  		cursor: pointer;}
+.button1:hover {
+  background-color: white;
+  color: #D84141;}
+ .button2 {margin: 20px 10px 5px 0px;
+		padding: 5px 25px 5px 25px;
+		color: white;
+		background-color: #D84141;
+		font-family: Poppins;
+		font-size: 14px;
+		text-align: center;
+		border: none;
+		border-radius: 5px;
+		transition-duration: 0.4s;
+  		cursor: pointer;}
+
+.field{border-color:#D84141 }
+
+.a{color:#D84141 }
+.a:active {
+  background-color: white;}
+
+ .select[id=country]{width: 50%;
+  padding: 12px 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border:none;
+  outline: none;
+	font-size: 12px;
+	font-family: poppins;
+	color:gray;} 
+ .select[id=country]:focus{border: 3px solid #D84141;}
+
+ .table{padding:20px 400px 100px 220px;
+ 		width: 50%}
+
+.th{padding: 20px 210px 20px 210px;
+		font-family : Poppins;
+ 		font-size : 26px;
+  		color : #D84141;}
+
+.price{padding: 20px 150px 20px 150px;
+			font-family : Poppins; 		
+ 			font-weight: 500;
+  			font-size : 26px;
+  			color : #D84141; 
+  			text-align: justify;}
+
+.td {padding: 10px 150px 10px 150px;
+	text-align: center;
+	font-family : Poppins;
+ 	font-weight: 400;
+  	font-size : 16px;
+  	color : #FFFFFF;
+  	border-radius: 15px;}
+
+tr:nth-child(odd) {
+  background-color: #D84141;}
+
+tr:nth-child(1) {
+  background-color:#141414 ;
+}
